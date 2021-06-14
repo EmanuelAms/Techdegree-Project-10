@@ -1,5 +1,5 @@
 /*---------------------------------/
-   IMPORTING MODULES, COMPONENTS t
+   IMPORTING MODULES, COMPONENTS
 /---------------------------------*/
 
 import React from 'react';
