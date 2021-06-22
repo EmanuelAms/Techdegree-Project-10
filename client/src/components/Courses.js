@@ -38,8 +38,6 @@ class Courses extends React.Component {
       return (
         <main>
           <div className="wrap main--grid">
-              {// Code adapted from https://pusher.com/tutorials/consume-restful-api-react
-              }
               {courses.map (course =>
               <Link className="course--module course--link" to={`/courses/${course.id}`} key={course.id}>
                   <h2 className="course--label">Course</h2>
